@@ -1,0 +1,340 @@
+.food-logo{
+    width: 70px;
+    height: 70px;
+    border-left: 200px;
+}
+
+.bg-food-banner{
+    background-image: url("https://res.cloudinary.com/dpepwwy2s/image/upload/v1735038679/samples/food/fish-vegetables.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.banner-title1{
+    color: white;
+    font-size: 60px;
+    font-weight: 600;
+}
+.banner-title2{
+    color: orangered;
+    font-size: 30px;
+    font-weight: 600;
+}
+.view-button{
+    color: white;
+    background-image: linear-gradient(#f03f09, #da5609);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 300;
+}
+.order-button{
+    color: #ef6013;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ef6013;
+    border-radius: 8px;
+}
+.wcu-section {
+    background-color: #f9fbfe;
+}
+
+.why-choose-h {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.why-choose-p {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.Andhra-Cuisine {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.Andhra-Cuisine-H {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.Andhra-Cuisine-P {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.Wide-Variety-Dishes {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.Wide-Variety-Dishes-H {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.Wide-Variety-Dishes-P {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.Convenient-Ordering {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.Convenient-Ordering-H {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.Convenient-Ordering-P {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.Fresh-Ingredients {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.Fresh-Ingredients-H {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.Fresh-Ingredients-P {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.Customizable {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.Customizable-H {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.Customizable-P {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.Delivery {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.Delivery-H {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+.Delivery-P {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.Menu-H {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+.delivery-and-payment-section {
+    background-color: white;
+}
+.custom-button{
+    text-align: center;
+    background-color: radial-gradient(#fff8db, #e6420c);
+}
+.delivery-payment-section-img {
+    width: 270px;
+}
+
+.delivery-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #e6420c);
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+.contact-us-section {
+    text-align: center;
+    background-color: white;
+}
+
+.contact-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+.contact-us-section-heading2 {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.contact-us-icon-container {
+    background-color: #faf7e8;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin: 10px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    padding-left: 10px;
+}
+
+.icon {
+    color: #f15512;
+    height: 35px;
+    width: 35px;
+}
+
+.footer-section {
+    background-color: #e71336(180, 77, 9);
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
